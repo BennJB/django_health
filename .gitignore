@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# django secrets key
+secrets.json
+
+# Pycharm
+.idea/
